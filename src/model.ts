@@ -64,6 +64,9 @@ export const getApiDocumentationHTML = () => {
   <li>
   <a href="/jobs">/jobs</a> - return an array of job object
   </li>
+  <li>
+  <a href="/todos">/todos</a> - return an array of todo object
+  </li>
   </ul>
   `;
 };

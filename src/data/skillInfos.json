@@ -18,5 +18,10 @@
     "name": "Typescript",
     "url": "https://onespace.pages.dev/techItems?id=35",
     "description": "in larger applications, the preferred way to program in JavaScript"
+  },
+  "swagger": {
+    "name": "Swagger",
+    "url": "https://en.wikipedia.org/wiki/Swagger_(software)",
+    "description": "a suite of tools for APO developers created n 2011"
   }
 }
