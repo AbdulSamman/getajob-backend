@@ -1,7 +1,11 @@
-@url=http://localhost:3115
+@url=http://localhost:3001
 
 ### base route
 {{url}}
 
-### jobs
+### JOBS
 {{url}}/jobs
+
+
+### TODOS
+{{url}}/todos
